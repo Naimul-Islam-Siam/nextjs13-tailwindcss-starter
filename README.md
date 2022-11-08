@@ -1,6 +1,12 @@
 ## Getting Started
 
-First, install the dependencies on local computer using:
+First, clone the repo:
+
+```bash
+git clone https://github.com/Naimul-Islam-Siam/nextjs13-tailwindcss-starter.git
+```
+
+install the dependencies on local computer using:
 
 ```bash
 npm i
